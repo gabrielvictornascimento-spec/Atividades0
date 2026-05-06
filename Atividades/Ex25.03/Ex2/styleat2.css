@@ -1,0 +1,23 @@
+table{
+    border: 2px solid rgb(0, 0, 112);
+    text-align: justify;
+    position: relative;
+    left: 11%;
+    border-collapse: collapse;
+    width: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(6, 93, 122);
+}
+body{
+    background-color: rgb(219, 247, 248);
+}
+
+h1{
+    text-align: center;
+    color: rgb(33, 33, 121);
+}
+
+td{
+    border: 2px solid rgb(0, 0, 112);
+    text-align: justify;
+}
